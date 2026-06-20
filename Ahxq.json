@@ -1,7 +1,7 @@
 {
     "author":  "Ahxq",
     "version":  "1.0",
-    "description":  "Machinist and Viper external ACR package adapted from PromeRotation DPS source.",
+    "description":  "蝰蛇机工全等级日随高难。",
     "supportedJobs":  [
                           {
                               "job":  "MCH",
