@@ -1,6 +1,6 @@
 {
   "author": "Ahxq",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "\u597D\u7528\u7684\u5168\u81EA\u52A8\u5FCD\u8005PVP ACR",
   "supportedJobs": [
     {
@@ -13,5 +13,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "9581ba589958b5493f014f8c433829b0018cc8b891426e783f630103142244ef"
+  "sha256": "610ae6d07f98fdd2127f22f415ca8622bb96cc6a881ee5f4b43e4c5d3014d2f2"
 }
