@@ -1,6 +1,6 @@
 {
   "author": "Ahxq",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "description": "Ahxq NINJA / VPR PvP ACR",
   "supportedJobs": [
     {
@@ -17,9 +17,9 @@
     }
   ],
   "apiVersion": 15,
-  "referencePromeVersion": "1.5.9.3",
+  "referencePromeVersion": "1.5.9.4",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "27906e821772d7df58cbfbde9b24db9865e24d2dc7794e3e5643aa5496082f6d"
+  "sha256": "deff2a48febb39d680df66edd7eb85b56194f76fb640b268725e05f36fb398e2"
 }
