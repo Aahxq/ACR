@@ -1,7 +1,7 @@
 {
   "author": "Ahxq",
-  "version": "2.8.0",
-  "description": "Ahxq NINJA / VPR / WHM PvP ACR",
+  "version": "2.9.2",
+  "description": "Ahxq NINJA / VPR / WHM / BRD / SMN PvP ACR",
   "supportedJobs": [
     {
       "job": "WHM",
@@ -18,12 +18,16 @@
     {
       "job": "BRD",
       "contentScope": "PvP"
+    },
+    {
+      "job": "SMN",
+      "contentScope": "PvP"
     }
   ],
   "apiVersion": 15,
-  "referencePromeVersion": "1.5.9.4",
+  "referencePromeVersion": "1.5.9.5",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "c398cb633791f0a91dc54f2bf8bc176e0e5571b409a1ae76436236452e8919ca"
+  "sha256": "41204b9cc1ddaf5092959e54527e31d6f4ce609c32b6a8b666c51b4d87ea2cb4"
 }
