@@ -1,6 +1,6 @@
 {
   "author": "Ahxq",
-  "version": "3.0.1",
+  "version": "3.0.3",
   "description": "Ahxq NINJA / VPR / WHM / BRD / SMN / MCH PvP ACR\n\nAhxq-PVPACR\u4F1A\u548CPR\u540C\u6B65\u6536\u96C6\u7528\u6237CID/\u89D2\u8272ID/\u89D2\u8272\u533A\u670D/ACR\u7248\u672C\u4FE1\u606F\u3002\n\u4EE5\u4E0A\u4FE1\u606F\u4EC5\u7528\u4E8E\u9A8C\u8BC1\u3001\u7EDF\u8BA1\u3001\u81EA\u52A8\u66F4\u65B0ACR\uFF0C\u4E0D\u4F1A\u7528\u4E8E\u5176\u4ED6\u4EFB\u4F55\u7528\u9014\u3002\n\u4F7F\u7528ACR\u5373\u4EE3\u8868\u5DF2\u9605\u8BFB\u8BE5\u58F0\u660E\uFF0C\u5E76\u540C\u610F\u4E0D\u4F7F\u7528ACR\u8DF3\u8138\u62C9\u8E29\u7EFF\u73A9\u3002",
   "supportedJobs": [
     {
@@ -33,5 +33,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "f660ccc39267ef18379add46cadac3705407142a30f625a1cec634fac86cad42"
+  "sha256": "c458845fe67900f2cd0215097dc99e747d938a0f1b06eba926590051e99fdfa0"
 }
