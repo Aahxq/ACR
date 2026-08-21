@@ -1,6 +1,6 @@
 {
   "author": "Ahxq",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Ahxq NINJA / VPR / WHM / BRD / SMN / MCH / RDM /  DRK  /  DRG  /  SAM  PvP ACR\n\u6B66\u58EB\u3001\u5FCD\u8005\u3001\u673A\u5DE5\u804C\u4E1A\u5EFA\u8BAE\u642D\u914DPVPAUTO\u4E00\u8D77\u98DF\u7528\u6548\u679C\u66F4\u4F73\u3002\nAhxq-PVPACR\u4F1A\u548CPR\u540C\u6B65\u6536\u96C6\u7528\u6237CID/\u89D2\u8272ID/\u89D2\u8272\u533A\u670D/ACR\u7248\u672C\u4FE1\u606F\u3002\n\u4EE5\u4E0A\u4FE1\u606F\u4EC5\u7528\u4E8E\u9A8C\u8BC1\u3001\u7EDF\u8BA1\u3001\u81EA\u52A8\u66F4\u65B0ACR\uFF0C\u4E0D\u4F1A\u7528\u4E8E\u5176\u4ED6\u4EFB\u4F55\u7528\u9014\u3002\n\u4F7F\u7528ACR\u5373\u4EE3\u8868\u5DF2\u9605\u8BFB\u8BE5\u58F0\u660E\uFF0C\u5E76\u540C\u610F\u4E0D\u4F7F\u7528ACR\u8DF3\u8138\u62C9\u8E29\u7EFF\u73A9\u3002",
   "supportedJobs": [
     {
@@ -49,5 +49,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "a35d269e06e06a3ea6ef3fad9bd70a1fc34e9e95f8209a65e27833f1eb070a37"
+  "sha256": "363c4287e99a2b1860f012da4898d6e3d0361fdcd412e8074594d581c43f06a9"
 }
