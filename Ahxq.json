@@ -1,7 +1,7 @@
 {
   "author": "Ahxq",
   "version": "3.4.0",
-  "description": "Ahxq NINJA / VPR / WHM / BRD / BLM / SMN / MCH / RDM / DRK / DRG / SAM PvP ACR for Traditional Chinese (TC), Dalamud API13 and PromeRotation API13.",
+  "description": "Ahxq NINJA / VPR / WHM / BRD / BLM / SMN / MCH / RDM/ DRK / DRG / SAM PvP ACR",
   "supportedJobs": [
     {
       "job": "DRK",
