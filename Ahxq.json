@@ -1,8 +1,12 @@
 {
   "author": "Ahxq",
-  "version": "3.4.0",
+  "version": "3.4.3",
   "description": "Ahxq NINJA / VPR / WHM / BRD / BLM / SMN / MCH / RDM/ DRK / DRG / SAM PvP ACR\n\u4F7F\u7528ACR\u524D\u8BF7\u4FDD\u8BC1\u4F60\u6709\u57FA\u672C\u7684\u804C\u4E1A\u7406\u89E3\uFF0C\u53CD\u9988\u524D\u5F80Discord\u540C\u540D\u53CD\u9988\u8D34\u8FDB\u884C\u53CD\u9988\u3002\n\u7279\u6B64\u58F0\u660E:Ahxq-PVPACR\u4F1A\u548CPR\u6846\u67B6\u540C\u6B65\u6536\u96C6\u7528\u6237CID/\u89D2\u8272ID/\u89D2\u8272\u533A\u670D/ACR\u7248\u672C\u4FE1\u606F\u3002\n\u4EE5\u4E0A\u4FE1\u606F\u4EC5\u7528\u4E8E\u9A8C\u8BC1\u3001\u7EDF\u8BA1\u3001\u81EA\u52A8\u66F4\u65B0ACR\uFF0C\u4E0D\u4F1A\u7528\u4E8E\u5176\u4ED6\u4EFB\u4F55\u7528\u9014\u3002\n\u4F7F\u7528ACR\u5373\u4EE3\u8868\u5DF2\u9605\u8BFB\u8BE5\u58F0\u660E\u5E76\u540C\u610F\u4E0D\u4F7F\u7528ACR\u8DF3\u8138\u62C9\u8E29\u7EFF\u73A9\u3002",
   "supportedJobs": [
+    {
+      "job": "PLD",
+      "contentScope": "PvP"
+    },
     {
       "job": "DRK",
       "contentScope": "PvP"
@@ -49,9 +53,9 @@
     }
   ],
   "apiVersion": 15,
-  "referencePromeVersion": "1.5.9.7",
+  "referencePromeVersion": "1.5.9.8",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "faa1be4f5b2985170e60d839f9e7b44c3458c4c4fe29c98d0f6287cb4c29559e"
+  "sha256": "d9af9fc6df52ecd1fef42e9f36abbdff57bbb095285b2e0b76f6a32baea0a553"
 }
