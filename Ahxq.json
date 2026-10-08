@@ -61,9 +61,9 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "description": "Ahxq PLD / DRK / WHM / DRG / NIN / SAM / VPR / BRD / MCH / BLM / SMN / RDM / WAR / GNB PvP ACR（国服）",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "https://ifdian.net/a/Hxq888",
-  "sha256": "7d6281598e2ed69f23fd8927f5d44c1d7ba3026ce3a1b339eb6f9017c5e2c70a"
+  "sha256": "3353e28f8a0986877df5a62a774a6b1cc70007c1bd6313ef1e02f4a55d998a17"
 }
