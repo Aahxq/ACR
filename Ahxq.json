@@ -56,14 +56,18 @@
     {
       "job": "RDM",
       "contentScope": "PvP"
+    },
+    {
+      "job": "SCH",
+      "contentScope": "PvP"
     }
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
-  "version": "4.3.2",
-  "description": "Ahxq PLD / DRK / WHM / DRG / NIN / SAM / VPR / BRD / MCH / BLM / SMN / RDM / WAR / GNB PvP ACR（国服）",
+  "version": "4.3.3",
+  "description": "Ahxq WAR / PLD / DRK / GNB / WHM / DRG / NIN / SAM / VPR / BRD / MCH / BLM / SMN / RDM / SCH PvP ACR（国服）",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "https://ifdian.net/a/Hxq888",
-  "sha256": "3353e28f8a0986877df5a62a774a6b1cc70007c1bd6313ef1e02f4a55d998a17"
+  "sha256": "36e9a790b9396090c207ba3ab2b933c6d79a33c3ee3773ca86b2473a82d54a96"
 }
