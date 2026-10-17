@@ -1,5 +1,7 @@
 {
   "author": "Ahxq",
+  "version": "4.3.4",
+  "description": "PVPACR  \nPrKey\u22652",
   "supportedJobs": [
     {
       "job": "WAR",
@@ -19,6 +21,10 @@
     },
     {
       "job": "WHM",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "SCH",
       "contentScope": "PvP"
     },
     {
@@ -46,6 +52,10 @@
       "contentScope": "PvP"
     },
     {
+      "job": "DNC",
+      "contentScope": "PvP"
+    },
+    {
       "job": "BLM",
       "contentScope": "PvP"
     },
@@ -56,22 +66,12 @@
     {
       "job": "RDM",
       "contentScope": "PvP"
-    },
-    {
-      "job": "SCH",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "DNC",
-      "contentScope": "PvP"
     }
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
-  "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
-  "version": "4.3.4",
-  "description": "Ahxq WAR / PLD / DRK / GNB / WHM / DRG / NIN / SAM / VPR / BRD / MCH / BLM / SMN / RDM / SCH / DNC PvP ACR（国服）",
+  "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.json",
   "sourceRepositoryUrl": "",
-  "sponsorUrl": "https://ifdian.net/a/Hxq888",
-  "sha256": "fb4468d1464b3a2ea9eb834b1cc78cf2a8d4532ef2d7f4468e5e649432ac1c88"
+  "sponsorUrl": "",
+  "sha256": "4fa40acfa20806ed170dfa6d86f8bc7f3d391c4529be21f57027ba146f4339b8"
 }
