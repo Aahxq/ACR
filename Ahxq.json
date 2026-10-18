@@ -69,9 +69,9 @@
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/Ahxq.zip",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "description": "PVPACR，PrKey≥2限定",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "https://ifdian.net/a/Hxq888",
-  "sha256": "54353c21f7429a9f2aa997fcd0dcd8aa02efac73d9a9f011831565df94233186"
+  "sha256": "9891f18e7dec852c5fc12a76afa23e948dcc6414c5df59c13f317d1850e07bcf"
 }
